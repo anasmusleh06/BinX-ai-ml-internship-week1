@@ -18,7 +18,7 @@ NumPy, Pandas and Matplotlib — all within the Jupyter Notebook workflow.
 - Commit well-structured, documented notebooks to GitHub
 
 ## Project Structure
-'''
+```
 binx-ai-ml-internship/
 ├── notebooks/
 │   ├── Day1_Setup.ipynb
@@ -35,7 +35,7 @@ binx-ai-ml-internship/
 │   └── adult.csv
 ├── requirements.txt
 └── .gitignore
-'''
+```
 ## Daily Hands-On Labs
 
 ### Day 1 — Environment Setup & Jupyter Workflow
